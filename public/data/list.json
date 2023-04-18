@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "鞋子",
+    "price": 398,
+    "img": "/images/1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "袜子",
+    "price": 28,
+    "img": "/images/2.jpeg"
+  }
+]
